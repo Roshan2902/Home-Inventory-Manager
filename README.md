@@ -1,1 +1,3 @@
-# Home-Inventory-Manager
+Manoj Pandit
+
+Home-Inventory-Manager
